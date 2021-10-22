@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 salad
 steak
 cream of wheat
+=======
+the shawshank redemption
+robinhood prince of thieves
+the ugly truth
+>>>>>>> movies
